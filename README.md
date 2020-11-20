@@ -47,5 +47,6 @@ Al combinar las diferentes selecciones, se formará una cara que se mostrará por 
     |  ---  |
     \,,,,,,,/
 
+El programa permite crear tantos retratos robot como se desee con un solo inicio de programa, mediante dos ``while`` y una variable ``repetirRetratos``.
 
 Como avisa [la guía online del lenguaje Markdown](https://www.markdownguide.org/basic-syntax/ "Recomendada en el enunciado de la tarea"), la sintaxis puede variar entre las diferentes aplicaciones que permiten interpretar el lenguaje. Este documento tiene sentido utilizando el lector incluido en Eclipse, pero no tanto, por ejemplo, en [el lector online Dillinger](https://dillinger.io/).
